@@ -1,0 +1,168 @@
+*{
+    overflow: hidden;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.resume{
+    height:650px;
+    width: 70%;
+    border: 2px solid red;
+    position: relative;
+    margin-left: 20%;
+}
+
+.name{
+    font-size: 45px;
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    margin-top: 10px;
+    width: 900px;
+    margin-left: 20%;
+}
+
+.photo{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    border:2px solid black;
+    position: absolute;
+    margin-left: 67%;
+    margin-top: -10%;
+    background-image: url("/Resume/mee4.jpg");
+    background-size: cover;
+    background-position: top;
+}
+
+.head{
+    font-size: 22px;
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    color: #2C97FF;
+    position: absolute;
+    margin-left: 20%;
+    margin-top: -4%;
+}
+
+#phone{
+    color: #2C97FF;
+    position: absolute;
+    margin-left: 20%;
+    font-size: 16px;
+}
+
+.number{
+    font-size: 16px;
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    margin-left: 22.5%;
+}
+
+#location{
+    color: #2C97FF;
+    font-size: 16px;
+    position: absolute;
+    margin-left: 41%;
+    margin-top: -3.5%;
+}
+
+.locat{
+    font-size: 16px;
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    margin-left: 43%;
+    margin-top: -3.5%;
+}
+
+#email{
+    color: #2C97FF;
+    font-size: 16px;
+    position: absolute;
+    margin-left: 22%;
+    margin-top: 0.2%;
+}
+.mail{
+    font-size: 16px;
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 0.2%;
+    font-weight:bold;
+    margin-top: 0%;
+    font-family:'ubuntu',sans-serif;
+}
+
+.head1{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 24px; 
+}
+
+#quote{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 20px;
+    color: #2C97FF;
+    position: absolute;
+
+}
+
+.head2{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 24px;   
+}
+
+.summary{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold; 
+    padding-left: 20px;
+    position: absolute;
+    margin-top: -2%;
+    font-size: 15px;
+}
+
+.head3{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 24px;   
+}
+
+.brief{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold; 
+    padding-left: 20px;
+    margin-top: -3.5%;
+    font-size: 14px;
+}
+
+.head4{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 25px;  
+     
+}
+
+.strength{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    font-size: 18px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -12%;
+}
+
+.skill{
+    font-family: 'ubuntu',sans-serif;
+    font-weight: bold; 
+    padding-left: 20px;
+    margin-top: -2%;
+    font-size: 15px; 
+}
